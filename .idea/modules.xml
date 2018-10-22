@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MishSheyGam.iml" filepath="$PROJECT_DIR$/.idea/MishSheyGam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MishSheyGam.Test.iml" filepath="$PROJECT_DIR$/.idea/modules/MishSheyGam.Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MishSheyGam.Test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/MishSheyGam.Test_main.iml" group="MishSheyGam.Test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MishSheyGam.Test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/MishSheyGam.Test_test.iml" group="MishSheyGam.Test" />
+    </modules>
+  </component>
+</project>
